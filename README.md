@@ -8,10 +8,12 @@ I'm Zhiwei Li, born after 95s.
 
 I received the B.S. degree in computer science and technology from Zhengzhou University, China, in 2020.
 
-Now I'm studying computer science and technology at Shanghaitech University, China, and will graduate in 2023.
+Now supervised by [Prof. Lu Sun](http://faculty.sist.shanghaitech.edu.cn/sunlu/), I'm studying computer science and technology at Shanghaitech University, China, and will graduate in 2023.
+
+Currently, I'm interested in **Multi-* Learning**(*: view, label, etc.). 
 
 ### 📫 Reach Me
-If you have anything to ask me, please feel free to ***EMAIL ME***: [lizhw@shanghaitech.edu.cn](mailto:lizhw@shanghaitech.edu.cn)
+If you have anything to ask me, please feel free to ***EMAIL ME***: [lizhw.cs@outlook.com](mailto:lizhw.cs@outlook.com)
 
 And also you can find me in these websites:
 

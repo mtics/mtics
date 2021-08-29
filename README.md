@@ -13,7 +13,7 @@ Now supervised by [Prof. Lu Sun](http://faculty.sist.shanghaitech.edu.cn/sunlu/)
 Currently, I'm interested in **Multi-\* Learning**(*: view, label, etc.). 
 
 ### 📫 Reach Me
-If you have anything to ask me, please feel free to ***EMAIL ME***: [lizhw.cs@outlook.com](mailto:lizhw.cs@outlook.com)
+If you have anything to ask me, please feel free to ***EMAIL ME***: lizhw(dot)cs(at))outlook(dot)com
 
 And also you can find me in these websites:
 
@@ -21,7 +21,7 @@ And also you can find me in these websites:
 | :-------------------------------: | :----------------------------------------------------: | :-------------------------------------------: |
 | [MTICS](https://study.blog.csdn.net/) | [MTICS](https://www.zhihu.com/people/li-zhi-wei-42-59) | [MTICS](https://mtics.top) |
 
-**Online Resume**: [https://www.zhwli.com/](https://www.zhwli.com/)
+**Online Resume**: [https://zhw.li](https://zhw.li/)
 
 <!--
 **mtics/mtics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

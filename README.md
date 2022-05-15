@@ -1,3 +1,9 @@
+<head> 
+    <script defer src="https://use.fontawesome.com/releases/v5.15.3/js/all.js"></script> 
+    <script defer src="https://use.fontawesome.com/releases/v5.15.3/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+
 ## 👋 Hi there
 
 > Currently, I am looking for a Phd position.
@@ -35,12 +41,6 @@ And also you can find me in these websites:
 
 Since some of the research code has not been published yet,
 my current most used language actually are MATLAB and Python.
-
-<head> 
-    <link href="cdn.bootcdn.net/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
-</head> 
-
-
 
 <!--
 **mtics/mtics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

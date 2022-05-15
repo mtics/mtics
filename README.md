@@ -5,6 +5,8 @@
 
 Welcome to my Github Profile.
 
+![Zhiwei Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtics&show_icons=true&theme=swift)
+
 ## 😄 About Me
 
 I'm Zhiwei Li, born after 95s.
@@ -21,17 +23,24 @@ If you have anything to ask me, please feel free to **_EMAIL ME_**: lizhw(dot)cs
 
 And also you can find me in these websites:
 
-|                 CSDN                  |                       Zhihu                        |              Blog               |
-| :-----------------------------------: | :------------------------------------------------: | :-----------------------------: |
-| [MTICS](https://study.blog.csdn.net/) | [M](https://www.zhihu.com/people/li-zhi-wei-42-59) | [MTICS](https://something.plus) |
+<a href='https://www.zhihu.com/people/li-zhi-wei-42-59'><i class=`"fab fa-zhihu"` aria-hidden=`"true"`></i></a>
 
-**Online Resume**: [https://zhw.li](https://zhw.li/)
+<a href='https://something.plus'><i class=`"fab fa-blogger"` aria-hidden=`"true"`></i></a>
+
+**Online Resume**: [<i class=`"far fa-id-card"` aria-hidden=`"true"`></i>](https://zhw.li/)
 
 ## 😄 Fun Fact About Me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtics&layout=compact)](https://github.com/mtics/github-readme-stats)
 
-![Zhiwei Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtics&show_icons=true&theme=vue)
+Since some of the research code has not been published yet,
+my current most used language actually are MATLAB and Python.
+
+<head> 
+    <link href="cdn.bootcdn.net/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+</head> 
+
+
 
 <!--
 **mtics/mtics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

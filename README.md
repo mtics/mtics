@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-> Currently, I am **looking for a $\color{red}{Phd}$ position**.
+> Currently, I am **looking for a _Phd_ position**.
 > If you are glad to offer me a chance, please contact me!
 
 Welcome to my Github Profile.

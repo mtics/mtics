@@ -24,10 +24,8 @@ If you have anything to ask me, please feel free to **_EMAIL ME_**: lizhw(dot)cs
 And also you can find me in these websites:
 [**RESUME**](https://zhw.li/), [Blog](https://something.plus) and [ZHI HU](https://www.zhihu.com/people/li-zhi-wei-42-59).
 
-## 😄 Fun Fact About Me
+[![Awesome Badges](https://img.shields.io/badge/BLOG-SOMETHING.PLUS-blue.svg)](https://something.plus)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtics&layout=compact)](https://github.com/mtics/github-readme-stats)
 
-Since some of the research code has not been published yet, my current most used language actually are MATLAB and Python.
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mtics.visitor-badge&left_color=red&right_color=green)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mtics.visitor-badge&left_color=grey&right_color=blue)

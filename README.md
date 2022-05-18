@@ -22,9 +22,8 @@ Currently, I'm interested in **Multi-\* Learning**(\*: view, label, etc.).
 If you have anything to ask me, please feel free to **_EMAIL ME_**: lizhw(dot)cs(at))outlook(dot)com
 
 And also you can find me in these websites:
-[**RESUME**](https://zhw.li/), [Blog](https://something.plus) and [ZHI HU](https://www.zhihu.com/people/li-zhi-wei-42-59).
 
-[![Awesome Badges](https://img.shields.io/badge/BLOG-SOMETHING.PLUS-blue.svg)](https://something.plus)
+[![Awesome Badges](https://img.shields.io/badge/RESUME-Zhiwei%20Li-tan.svg)](https://zhw.li/)[![Awesome Badges](https://img.shields.io/badge/BLOG-SOMETHING.PLUS-ivory.svg)](https://something.plus)[![Awesome Badges](https://img.shields.io/badge/ZHI%20HU-Mr.%20Lychee-blue.svg)](https://www.zhihu.com/people/li-zhi-wei-42-59)
 
 
 

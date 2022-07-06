@@ -5,7 +5,7 @@
 
 Welcome to my Github Profile.
 
-![Zhiwei Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtics&show_icons=true&theme=swift)
+![Zhiwei Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtics&show_icons=true&hide=issues,contribs&theme=swift)
 
 ## 😄 About Me
 

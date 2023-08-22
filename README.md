@@ -13,9 +13,12 @@ I'm Zhiwei Li, born after 95s.
 
 I received the B.S. degree in computer science and technology from Zhengzhou University, China, in 2020.
 
-Now supervised by [Prof. Lu Sun](http://faculty.sist.shanghaitech.edu.cn/sunlu/), I'm studying computer science and technology at Shanghaitech University, China, and will graduate in 2023.
+Supervised by [Prof. Lu Sun](http://faculty.sist.shanghaitech.edu.cn/sunlu/), I successfully completed my Master’s journey in ShanghaiTech University, China.
 
-Currently, I'm interested in **Multi-\* Learning**(\*: view, label, etc.).
+Currently, I'm interested in :
+
+- Federated Recommendation Systems (2022 - NOW)
+- Multi-View Multi-Label Learning (2021 - 2022)
 
 ## 📫 Reach Me
 

@@ -23,7 +23,3 @@ If you have anything to ask me, please feel free to **_EMAIL ME_**: lizhw(dot)cs
 And also you can find me in these websites:
 
 [![Awesome Badges](https://img.shields.io/badge/RESUME-Zhiwei%20Li-tan.svg)](https://zhw.li/)
-
----
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=mtics.visitor-badge&left_color=grey&right_color=blue)
